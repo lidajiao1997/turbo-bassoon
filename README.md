@@ -38,8 +38,8 @@ xelatex  main.tex
     secret-level     = {公开},              % 密级
     title            = {论文中文题目},
     title*           = {Thesis English Title},
-    college          = {经管},              % 学院名（封面“学　　院：__经管__学院”的下划线部分）
-    department       = {工商},              % 系名（封面“__工商__系”的下划线部分）
+    college          = {物理},              % 学院名（封面“学　　院：__经管__学院”的下划线部分）
+    department       = {流体力学},              % 系名（封面“__工商__系”的下划线部分）
     major-class      = {物理学 2023 班},    % 专业班级
     major            = {物理学},            % 专业（摘要页）
     author           = {张三},              % 学生姓名
